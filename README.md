@@ -1,6 +1,6 @@
 # Santiago Silva
 
-Applied mathematician working across complexity science, computational social science, and spatial modelling. I am interested in how individual decisions, institutional rules, and spatial structure interact to produce unequal aggregate outcomes, especially in housing and territorial systems.
+Applied mathematician working across quantitative social science, spatial modelling, and applied statistics. I am interested in how individual decisions, institutional rules, and spatial structure interact to produce unequal aggregate outcomes, especially in housing and territorial systems.
 
 ## Selected work
 
@@ -12,4 +12,4 @@ Applied mathematician working across complexity science, computational social sc
 
 Bayesian modelling and MCMC · causal inference and DAG-based research design · spatial statistics · predictive modelling · reproducible Python, R, and SQL workflows
 
-I am open to research collaborations in complexity science, computational social science, and urban systems.
+I am open to research collaborations in quantitative social science, urban systems, and applied statistics.
